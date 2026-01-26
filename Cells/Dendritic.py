@@ -9,7 +9,7 @@ Saves virus info in a file named after the actual virus filename
 """
 
 def get_info_file(virus_name: str) -> str:
-    safe_name = virus_name.replace(os.sep, "_")  # avoid folder slashes in filenames
+    safe_name = virus_name.replace(os.sep, "_")  
     return os.path.join(os.path.dirname(__file__), f"info_{safe_name}.txt")
 
 
@@ -61,3 +61,4 @@ def collect_info(file_path: str, yara_rules_triggered: list, virus_name: str = N
         print(f"Dendritic saved info about {file_path} to {info_file}")
     except Exception as e:
         print("Failed to save info:", e)
+
