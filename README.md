@@ -12,9 +12,9 @@ An antivirus that acts like the immune system
   on Bash/C/Rust(And maybe python for high level tasks) and 
   is gonna be made for linux so I won't have to deal with windows sh**.
 
-  Anyways I'm trynna find some people to help with it so if you want just dm me or something my discord server is here
-  <a href='https://discord.gg/F9NST7kGhX'>Discord<a>
-  anyways its buggy I know when will I fix it? Idk.
+  Anyways I'm trynna find some people to help with it so if you want just dm me or something my discord server is
+  <a href='https://discord.gg/F9NST7kGhX'>here<a>.
+  Anyways its buggy I know when will I fix it? Idk.
 </details>
 
 ## Installation
@@ -22,5 +22,6 @@ Just Git clone it then install the modules found in Requirements.txt.
 
 ## License
 MIT copy it, distribute it, fork it Idc just give credits to me.
+
 
 
