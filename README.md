@@ -2,7 +2,9 @@
 Immune System
 </h1>
 An antivirus that acts like the immune system
+
 ---
+
 <details>
   <summary>Things</summary>
   Idk I wanted to create an immune system like AV it's not yet a complete AV
@@ -19,3 +21,4 @@ Just Git clone it then install the modules found in Requirements.txt.
 
 ## License
 MIT copy it, distribute it, fork it Idc just give credits to me.
+
