@@ -13,7 +13,7 @@ An antivirus that acts like the immune system
   is gonna be made for linux so I won't have to deal with windows sh**.
 
   Anyways I'm trynna find some people to help with it so if you want just dm me or something my discord server is
-  <a href='https://discord.gg/F9NST7kGhX'>here<a>.
+  <a href='https://discord.gg/F9NST7kGhX'>here</a>.
   Anyways its buggy I know when will I fix it? Idk.
 </details>
 
@@ -22,6 +22,7 @@ Just Git clone it then install the modules found in Requirements.txt.
 
 ## License
 MIT copy it, distribute it, fork it Idc just give credits to me.
+
 
 
 
